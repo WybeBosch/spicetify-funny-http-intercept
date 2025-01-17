@@ -48,3 +48,6 @@ spicetify update
 
 7. Profit.
 It turns the spicetify http update requests into a https command on our end, and adds the auth header.
+
+8. Profit deleted, because once you update spicetify, you would need to recompile the binary again to use HTTP
+so this entire project is completely useless! :D
