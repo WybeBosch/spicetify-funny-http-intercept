@@ -1,5 +1,4 @@
-# spicetify-funny-http-intercept
-
+# DONT USE THIS PROJECT, ITS VERY UNSAFE AND VERY USELESS
 
 Steps to reproduce:
 
