@@ -1,0 +1,1 @@
+# spicetify-funny-http-intercept
