@@ -21,10 +21,11 @@ which spicetify
 Now you have a spicetify client that is very unsafe because it does http requests.
 but that means we can intercept them :P
 
-4. modify the intercept-http-request.js file to add your GITHUB PERSONAL ACCES TOKEN
-create a new token here
-https://github.com/settings/tokens/new
-ya need
+4. modify the intercept-http-request.js file to add your GITHUB PERSONAL ACCES TOKEN <br>
+create a new token here<br>
+https://github.com/settings/tokens/new<br>
+
+You need the following rights:
 
 - public_repo
 - read:packages
